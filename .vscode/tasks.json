@@ -1,0 +1,27 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build Metro App",
+      "type": "shell",
+      "command": "g++",
+      "args": [
+        "src/main.cpp",
+        "src/graph.cpp",
+        "src/csv_reader.cpp",
+        "src/dijkstra.cpp",
+        "src/mst.cpp",
+        "src/ford_fulkerson.cpp",
+        "-Iinclude",
+        "-g",
+        "-o",
+        "metro_app"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": ["$gcc"]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+Source,Destination,Distance (km),Time (mins),Shortest Route
+ISBT,Railway Station,2.0,10,Bus 2A
+ISBT,Clock Tower,6.0,20,Bus 2A
+ISBT,Rajpur Road,12.0,40,Bus 2A
+ISBT,Mussoorie,33.0,90,Bus (Dehradun–Mussoorie)
+ISBT,Forest Research Institute (FRI),8.7,35,Bus 2A → Walk
+ISBT,Pacific Mall,12.0,40,Bus 2A
+ISBT,Vidhan Sabha,7.0,25,Bus 2A
+ISBT,Survey Chowk,11.0,45,Bus 2A
+ISBT,Sahastradhara,13.0,50,Bus 2B
+Railway Station,Clock Tower,2.0,10,Bus 2A
+Railway Station,Rajpur Road,7.0,25,Bus 2A
+Railway Station,Mussoorie,34.0,100,Bus (Dehradun–Mussoorie)
+Railway Station,Forest Research Institute (FRI),6.0,25,Bus 2A → Walk
+Railway Station,Pacific Mall,12.0,40,Bus 2A
+Railway Station,Vidhan Sabha,3.0,10,Bus 2A
+Railway Station,Survey Chowk,9.0,30,Bus 2A
+Railway Station,Sahastradhara,12.0,45,Bus 2B
+Clock Tower,Rajpur Road,3.0,15,Bus 2A
+Clock Tower,Mussoorie,32.0,90,Bus (Dehradun–Mussoorie)
+Clock Tower,Forest Research Institute (FRI),5.0,20,Bus 2A → Walk
+Clock Tower,Pacific Mall,5.0,20,Bus 2A
+Clock Tower,Vidhan Sabha,1.0,5,Walk
+Clock Tower,Survey Chowk,3.0,10,Bus 2A
+Clock Tower,Sahastradhara,12.0,45,Bus 2A → Bus 2B
+Rajpur Road,Mussoorie,22.0,45,Bus (Dehradun–Mussoorie)
+Rajpur Road,Forest Research Institute (FRI),6.5,15,Bus 2A
+Rajpur Road,Pacific Mall,8.0,30,Bus 2A
+Rajpur Road,Vidhan Sabha,4.0,15,Bus 2A
+Rajpur Road,Survey Chowk,6.0,20,Bus 2A
+Rajpur Road,Sahastradhara,12.0,50,Bus 2A → Bus 2B
+Mussoorie,Forest Research Institute (FRI),24.3,80,Bus (Mussoorie–Dehradun) → Bus 2A
+Mussoorie,Pacific Mall,30.0,90,Bus (Mussoorie–Dehradun) → Bus 2A
+Mussoorie,Vidhan Sabha,34.0,100,Bus (Mussoorie–Dehradun) → Bus 2A
+Mussoorie,Survey Chowk,32.0,90,Bus (Mussoorie–Dehradun) → Bus 2A
+Mussoorie,Sahastradhara,38.0,100,Bus (Mussoorie–Dehradun) → Bus 2B
+Forest Research Institute (FRI),Pacific Mall,7.0,20,Bus 2A
+Forest Research Institute (FRI),Vidhan Sabha,4.0,15,Bus 2A
+Forest Research Institute (FRI),Survey Chowk,1.0,5,Walk
+Forest Research Institute (FRI),Sahastradhara,11.0,40,Bus 2A → Bus 2B
+Pacific Mall,Vidhan Sabha,8.0,30,Bus 2A
+Pacific Mall,Survey Chowk,2.0,10,Bus 2A
+Pacific Mall,Sahastradhara,15.0,50,Bus 2A → Bus 2B
+Vidhan Sabha,Survey Chowk,7.0,25,Bus 2A
+Vidhan Sabha,Sahastradhara,12.0,45,Bus 2A → Bus 2B
+Survey Chowk,Sahastradhara,3.0,10,Bus 2B
